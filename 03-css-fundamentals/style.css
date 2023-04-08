@@ -1,4 +1,14 @@
-h1,
+* {
+  /* border-top: 10px solid #1098ad; */
+}
+
+body {
+  border-top: 10px solid #1098ad;
+  color: #444;
+  font-family: sans-serif;
+}
+
+/* h1,
 h2,
 h3,
 h4,
@@ -6,7 +16,7 @@ p,
 li {
   color: #444;
   font-family: sans-serif;
-}
+} */
 
 h1,
 h2,
@@ -135,4 +145,35 @@ a:hover {
 a:active {
   background-color: black;
   font-style: italic;
+}
+
+a {
+  color: red;
+}
+
+/* Resolving Conflicts */
+
+/* #copyright {
+  color: red;
+}
+
+.copyright {
+  color: blue;
+}
+
+.text {
+  color: yellow;
+}
+
+footer p {
+  color: green !important;
+} */
+
+/* nav a:link,
+nav p {
+  font-size: 18px;
+} */
+
+nav {
+  font-size: 18px;
 }
