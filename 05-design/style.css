@@ -58,6 +58,7 @@ h2 {
 .btn:link,
 .btn:visited {
     background-color: #087f5b;
+    border-radius: 100px;
     color: #fff;
     display: inline-block;
     font-weight: 500;
@@ -78,6 +79,10 @@ h2 {
 .btn--small {
     font-size: 14px;
     padding: 8px 12px;
+}
+
+img {
+    border-radius: 12px;
 }
 
 /* ------------------------ */
@@ -137,6 +142,7 @@ img {
 /* TESTIMONIAL */
 .testimonial-section {
     background-color: #087f5b;
+    border-radius: 12px;
     color: #fff;
     padding: 24px;
 }
@@ -161,7 +167,13 @@ img {
 
 /* CHAIRS */
 .chair {
+    border-radius: 12px;
     box-shadow: 0 20px 30px 0 rgba(0, 0, 0, 0.07);
+}
+
+.chair img {
+    border-bottom-left-radius: 0;
+    border-bottom-right-radius: 0;
 }
 
 .chair-box {
