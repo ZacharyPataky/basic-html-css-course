@@ -12,3 +12,5 @@ In order to foster its students into confident and independent developers, capab
 * Important developer skills such as reading documentation, fixing code errors on your own, and using professional web development tools.
 
 Feel free to look around if you're interested in reviewing my studies.
+
+You can find my copy of the capstone project here: [omnifood-zp.netlify.app](omnifood-zp.netlify.app)
